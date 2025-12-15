@@ -23,7 +23,7 @@ Before we begin, can I record a transcript of this session just for my notes for
 3. When you are working with an archive, what are the main types of documents/data that you engage with and what types of things do you learn or gain from the various types of documents (images, text, etc)
 4. What does it mean to steward and archive that values Black Imaginaries?
 5. Can you tell me a bit about the technologies you use to archive information or even just the technologies that interact with or archive your information unconsensually?
-6. Jow much of your work has been digital-born things versus not? and do you have thoughts about the approaches to archiving digital content?
+6. How much of your work has been digital-born things versus not? and do you have thoughts about the approaches to archiving digital content?
 7. How is collective memory and imagination developed and mediated in a highly technological world
 8. We are in a very hypervisible moment, intentionality, accountability, and respect is necessary for choosing otherwise. how do we balance the need or desire to be visible for access and support, versus protecting our knowledge?
 9. Can you tell me a bit about the difference between grassroots archives and traditional archiving?
