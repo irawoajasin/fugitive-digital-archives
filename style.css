@@ -1,21 +1,19 @@
 html {
-  margin: 0;
-  padding: 0;
   -webkit-text-size-adjust: none;
 }
 
 body {
-  margin: 0 auto;
-  padding: 0 1rem;
-  font-family: serif;
-  background: #e0e2db;
-  color: #454545;
-  max-width: 72ch;
-  line-height: 1.5rem;
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  font-size: 1.25rem;
+    margin-bottom: 5rem;
+    padding: 0 1rem;
+    font-family: serif;
+    background: #e0e2db;
+    color: #454545;
+    max-width: 72ch;
+    line-height: 1.5rem;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.25rem;
 }
 
 main {
@@ -45,6 +43,7 @@ h2 {
 h3 {
   margin-top: 2rem;
   font-size: 1.5rem;
+  margin-bottom: 0;
 }
 
 ol,
